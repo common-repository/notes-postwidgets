@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notes PostWidgets 1.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-13 10:55+0100\n"
+"PO-Revision-Date: 2013-12-13 10:55+0100\n"
+"Last-Translator: David Mårtensson <david.martensson@gmail.com>\n"
+"Language-Team:  <david.martensson@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: notes-postwidgets.php:102
+msgid "Post Widgets"
+msgstr ""
+
+#: notes-postwidgets.php:103
+msgid "Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:104
+msgid "Add New"
+msgstr ""
+
+#: notes-postwidgets.php:105
+msgid "Add New Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:106
+msgid "Edit Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:107
+msgid "New Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:108
+msgid "View Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:109
+msgid "Search Post Widgets"
+msgstr ""
+
+#: notes-postwidgets.php:110
+msgid "No Post Widgets found"
+msgstr ""
+
+#: notes-postwidgets.php:111
+msgid "No Post Widgets found in Trash"
+msgstr ""
+
+#: notes-postwidgets.php:148
+#, php-format
+msgid "Post Widget updated. <a href=\"%s\">View Post Widget</a>"
+msgstr ""
+
+#: notes-postwidgets.php:149
+msgid "Custom field updated."
+msgstr ""
+
+#: notes-postwidgets.php:150
+msgid "Custom field deleted."
+msgstr ""
+
+#: notes-postwidgets.php:151
+msgid "Post Widget updated."
+msgstr ""
+
+#: notes-postwidgets.php:153
+#, php-format
+msgid "Post Widget restored to revision from %s"
+msgstr ""
+
+#: notes-postwidgets.php:154
+#, php-format
+msgid "Post Widget published. <a href=\"%s\">View Post Widget</a>"
+msgstr ""
+
+#: notes-postwidgets.php:155
+msgid "Post Widget saved."
+msgstr ""
+
+#: notes-postwidgets.php:156
+#, php-format
+msgid ""
+"Post Widget submitted. <a target=\"_blank\" href=\"%s\">Preview Post Widget</"
+"a>"
+msgstr ""
+
+#: notes-postwidgets.php:157
+#, php-format
+msgid ""
+"Post Widget scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Post Widget</a>"
+msgstr ""
+
+#: notes-postwidgets.php:159
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: notes-postwidgets.php:160
+#, php-format
+msgid ""
+"Post Widget draft updated. <a target=\"_blank\" href=\"%s\">Preview Post "
+"Widget</a>"
+msgstr ""
+
+#: notes-postwidgets.php:313
+msgid "Adds a Notes PostWidget."
+msgstr ""
+
+#: notes-postwidgets.php:383
+msgid "Keyword"
+msgstr ""
+
+#: notes-postwidgets.php:410
+msgid "Container css class"
+msgstr ""
+
+#: notes-postwidgets.php:419 notes-postwidgets.php:421
+msgid "Choose Post Widget"
+msgstr ""
+
+#: notes-postwidgets.php:419
+msgid "View search"
+msgstr ""
+
+#: notes-postwidgets.php:432 notes-postwidgets.php:439
+msgid "Search"
+msgstr ""
+
+#: notes-postwidgets.php:432
+msgid "View choose"
+msgstr ""
+
+#: notes-postwidgets.php:473
+#, php-format
+msgid ""
+"You have upgraded to Notes PostWidgets version 1.0.2 which require a "
+"database upgrade. Please backup your data and <a href=\"%url\">click here</"
+"a> to perform the upgrade."
+msgstr ""
+
+#: notes-postwidgets.php:476
+msgid "An error occurred during last upgrade process."
+msgstr ""
